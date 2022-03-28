@@ -15,14 +15,15 @@
   <tbody>
     <tr>
       <td>1. Изучение поведения пользователей Яндекс Музыки из городов Москва, Петербург.
-      <a href="https://github.com/katerina-ash/data_analysis/blob/main/Project_1._Yandex_Music/Project_1_Yandex_Music.ipynb">указатель ссылки</a></td>
+      <a href="https://github.com/katerina-ash/data_analysis/blob/main/Project_1._Yandex_Music/Project_1_Yandex_Music.ipynb">Проект 1</a></td>
       <td>Интернет-сервисы</td>
       <td>Маркетинг-аналитик</td>
       <td>Pandas, Python, предобработка данных</td>
       <td>На основе данных определить активность пользователей в зависимости от дня недели, какие жанры интересны ползователям</td>
     </tr>
     <tr>
-      <td>2. Исследование надёжности заёмщиков - анализ банковских данных</td>
+      <td>2. Исследование надёжности заёмщиков - анализ банковских данных
+      <a href="https://github.com/katerina-ash/data_analysis/blob/main/Project_2_Reliability_of_borrowers/Project_2_Investigation_of_the_reliability_of_borrowers.ipynb">Проект 2</a></td>
       <td>Банковская сфера
       Кредитование</td>
       <td>Data Analyst
@@ -32,7 +33,8 @@
       <td>На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей возврата кредита в срок</td>
     </tr>
     <tr>
-      <td>3. Продажа квартир в Санкт-Петербурге -анализ рынка недвижимости</td>
+      <td>3. Продажа квартир в Санкт-Петербурге -анализ рынка недвижимости.
+      <a href="https://github.com/katerina-ash/data_analysis/blob/main/Project_3_Ads_for_sale_of_apartments/Project_3_Research_of_ads_for_the_sale_of_apartments.ipynb">Проект 3</a></td>
       <td>Интернет-сервисы
         Площадки объявлений</td>
       <td>Data Analyst
