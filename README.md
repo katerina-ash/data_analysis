@@ -15,7 +15,7 @@
   <tbody>
     <tr>
       <td>1. Изучение поведения пользователей Яндекс Музыки из городов Москва, Петербург.
-      [Проект 1](https://github.com/katerina-ash/data_analysis/blob/main/Project_1._Yandex_Music/Project_1_Yandex_Music.ipynb)</td>
+      [Project](https://github.com/katerina-ash/data_analysis/blob/main/Project_1._Yandex_Music/Project_1_Yandex_Music.ipynb) </td>
       <td>Интернет-сервисы</td>
       <td>Маркетинг-аналитик</td>
       <td>Pandas, Python, предобработка данных</td>
