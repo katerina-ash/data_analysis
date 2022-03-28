@@ -22,8 +22,8 @@
       <td>На основе данных определить активность пользователей в зависимости от дня недели, какие жанры интересны ползователям</td>
     </tr>
     <tr>
-      <td>2. Исследование надёжности заёмщиков - анализ банковских данных
-      <a href="https://github.com/katerina-ash/data_analysis/blob/main/Project_2_Reliability_of_borrowers/Project_2_Investigation_of_the_reliability_of_borrowers.ipynb">Проект 2</a></td>
+      <td>2. Исследование надёжности заёмщиков - анализ банковских данных. 
+        <a href="https://github.com/katerina-ash/data_analysis/blob/main/Project_2_Reliability_of_borrowers/Project_2_Investigation_of_the_reliability_of_borrowers.ipynb">Проект 2</a></td>
       <td>Банковская сфера
       Кредитование</td>
       <td>Data Analyst
@@ -44,7 +44,8 @@
       <td>Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир</td>
     </tr>
     <tr>
-      <td>4. Определение выгодного тарифа для телеком компании</td>
+      <td>4. Определение выгодного тарифа для телеком компании.
+      <a href="https://github.com/katerina-ash/data_analysis/blob/main/Project_4_Tariffs_in_telecom_company/Project_4_Determination_of_the_prospective_tariff.ipynb">Проект 4</a></td>
       <td>Телеком</td>
       <td>Data Analyst
         Маркетинг-аналитик
@@ -53,7 +54,8 @@
       <td>На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа</td>
     </tr>
     <tr>
-      <td>5. Причины неэффективности привлечения пользователей в приложении Procrastinate Pro+</td>
+      <td>5. Причины неэффективности привлечения пользователей в приложении Procrastinate Pro+.
+      <a href="https://github.com/katerina-ash/data_analysis/blob/main/Project_5_App_advertising/Project_5_Finding_the_reasons_for_an_ineffective_advertising_company.ipynb">Проект 5</a></td>
       <td>Интернет-сервисы</td>
       <td>Маркетинг-аналитик
         Продуктовый аналитик</td>
@@ -61,7 +63,8 @@
       <td>На основе данных о посещениях сайта изучить, как люди пользуются продуктом, когда они начинают покупать, сколько денег приносит каждый клиент, когда он окупается, из какого рекламного источника пришел, какие рекламные источники эффективны</td>
     </tr>
     <tr>
-      <td>6. Проверка гипотез по увеличению выручки в интернет-магазине - оценить результаты А/В теста</td>
+      <td>6. Проверка гипотез по увеличению выручки в интернет-магазине - оценить результаты А/В теста.
+      <a href="https://github.com/katerina-ash/data_analysis/blob/main/Project_6_AB_test/Project_6_Prioritization_of_hypotheses._Analysis_of_the_AB_test.ipynb">Проект 6</a></td>
       <td>Интернет-магазины</td>
       <td>Маркетинг-аналитик</td>
       <td>A/B-тестирование, Matplotlib, Pandas, Python, SciPy, проверка статистических гипотез</td>
@@ -69,7 +72,8 @@
     </tr>
     </tr>
     <tr>
-      <td>7. Исследования рынка общепита в Москве для принятия решения об открытии нового заведения</td>
+      <td>7. Исследования рынка общепита в Москве для принятия решения об открытии нового заведения. 
+        <a href="https://github.com/katerina-ash/data_analysis/blob/main/Project_7_Catering%20market%20research/Project_7_Catering_market_research_in_Moscow.ipynb">Проект 7</a></td>
       <td>Бизнес
         Оффлайн
         Стартапы</td>
